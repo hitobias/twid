@@ -1,5 +1,5 @@
 {
-    "name": "meditate/twid",
+    "name": "hitobias/twid",
     "description": "Taiwan ID Number validation and maker.",
     "type": "package",
     "license": "MIT",
@@ -15,8 +15,8 @@
     ],
     "authors": [
         {
-            "name": "Wei-Cheng Shi",
-            "email": "tentail10@gmail.com",
+            "name": "Tobias Pan",
+            "email": "hitobias@gmail.com",
             "role": "Developer"
         }
     ],
