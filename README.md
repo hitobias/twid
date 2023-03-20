@@ -1,15 +1,18 @@
 # Taiwan ID Number validation and maker
 
-meditate/twid is PHP Library to validate and make Taiwan ID Number.
+hitobias/twid is PHP Library to validate and make Taiwan ID Number.
+It supports Php 8.1, 8.2
 
 ## Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Taiwan ID Number validation and maker](#taiwan-id-number-validation-and-maker)
+  - [Contents](#contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
     - [Basic](#basic)
     - [Facade](#facade)
     - [Laravel validation](#laravel-validation)
-- [License](#license)
+  - [License](#license)
 
 ## Installation
 
